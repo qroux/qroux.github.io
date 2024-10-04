@@ -1,6 +1,6 @@
 # Astro Starter Kit: Blog
 
-[![Open deployed page]([https://qroux.github.io](https://qroux.github.io))]
+https://qroux.github.io/
 
 
 
